@@ -1,0 +1,7 @@
+//
+//  Build settings for the Staging environment.
+//
+
+XCC_APP_VERSION = 1.0
+XCC_APP_BUILD = 1
+XCC_PRODUCT_NAME = AIChat UAT
